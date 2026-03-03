@@ -313,7 +313,7 @@ function ResultScreen({ result, values, onEdit }) {
         <h3 className="text-xs uppercase tracking-widest text-neutral-500 mb-1">{ctaLabels[scriptKey]}</h3>
         <p className="text-xs text-neutral-600 mb-2">Use this if you need to say something:</p>
         <ScriptBox script={script} />
-      </div>
+      </div> 
 
       <button
         onClick={onEdit}
