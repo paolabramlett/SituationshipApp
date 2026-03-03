@@ -14,7 +14,7 @@ const SLIDER_META = [
   { key: "safety", label: "Emotional Safety", lo: "Walking on glass", hi: "Completely safe" },
   { key: "expectations", label: "Aligned Goals", lo: "Different worlds", hi: "Same page" },
   { key: "respect", label: "Respect", lo: "Dismissive", hi: "Deeply respectful" },
-];
+]; 
 
 const INSIGHT_LIBRARY = {
   lowConsistency: ["If it's hot/cold, it's not love. It's availability.", "Confusion is the product."],
